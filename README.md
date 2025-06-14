@@ -19,8 +19,8 @@ A basic calculator built with HTML, CSS, and JavaScript.
 - `package.json` – Project info
 
 ## 🔗 Live Demo
-👉 [Try the Calculator on Vercel](https://vercel.com/bpmfmohammedabdus-projects/calculator)
+👉 [Try the Calculator on Vercel](https://calculator-sigma-lemon-51.vercel.app/)
 
 ---
 
-👨‍💻 Made by [Mohamed Abdu](https://github.com/bpmfmohammedabdus)
+👨‍💻 Made with ❤️ by Mohamed Abdu

@@ -17,4 +17,3 @@ A basic calculator built with HTML, CSS, and JavaScript.
 
 ---
 
-👨‍💻 Made with ❤️ by Mohamed Abdu
